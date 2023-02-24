@@ -1,0 +1,4 @@
+#Fri Feb 24 16:45:50 MSK 2023
+base.0=C\:\\Users\\User\\Desktop\\krestnol\\Game\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

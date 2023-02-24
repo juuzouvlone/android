@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Крест и Ноль</string> <!-- App name -->
+
+    <!-- AdMob -->
+    <item name="show_admob" type="bool">false</item> <!-- Show AdMob (true/false) -->
+    <item name="admob_test" type="bool">false</item> <!-- AdMob test mode (true/false) -->
+    <string name="adMob_app_id">ca-app-pub-6293616257692725~7999902341</string> <!-- AdMob App ID -->
+    <string name="adMob_banner">ca-app-pub-6293616257692725/7660990998</string> <!-- AdMob Banner ID -->
+    <string name="adMob_interstitial">ca-app-pub-6293616257692725/4668050048</string> <!-- AdMob Interstitial ID -->
+    <string name="btn_exit">Выйти</string>
+    <string name="btn_start1">Один Игрок</string>
+    <string name="btn_start2">Два Игрока</string>
+    <string name="btn_clear">Заново</string>
+    <string name="win0">Ничья</string>
+    <string name="win1_single">Вы проиграли</string>
+    <string name="win2_single">Вы выиграли</string>
+    <string name="win1_multiple">PLAYER 1 WINS</string>
+    <string name="win2_multiple">PLAYER 2 WINS</string>
+    <string name="btn_sound">Звук</string>
+    <string name="btn_mute">Без звука</string>
+
+</resources>

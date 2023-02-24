@@ -1,0 +1,22 @@
+# Referenced at C:\Users\Erik\Documents\Max Unayev Film\Tic Tac Toe\TicTacToe\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:16
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\Erik\Documents\Max Unayev Film\Tic Tac Toe\TicTacToe\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:43
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
+# Referenced at C:\Users\Erik\Documents\Max Unayev Film\Tic Tac Toe\TicTacToe\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:49
+-keep class com.google.android.gms.ads.MobileAdsInitProvider { <init>(); }
+# Referenced at C:\Users\Erik\Documents\Max Unayev Film\Tic Tac Toe\TicTacToe\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:60
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(); }
+# Referenced at C:\Users\Erik\Documents\Max Unayev Film\Tic Tac Toe\TicTacToe\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:74
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at C:\Users\Erik\Documents\Max Unayev Film\Tic Tac Toe\TicTacToe\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:55
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at C:\Users\Erik\Documents\Max Unayev Film\Tic Tac Toe\TicTacToe\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:70
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at C:\Users\Erik\Documents\Max Unayev Film\Tic Tac Toe\TicTacToe\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:23
+-keep class com.unaev.tictac.Main { <init>(); }
+# Referenced at C:\Users\Erik\.gradle\caches\transforms-2\files-2.1\d52aa75563c2cc8edb955a24f2134bd9\browser-1.0.0\res\layout\browser_actions_context_menu_page.xml:5
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
+
+# Referenced at C:\Users\Erik\Documents\Max Unayev Film\Tic Tac Toe\TicTacToe\app\src\main\res\layout\main.xml:92
+-keepclassmembers class * { *** onClick(android.view.View); }
+

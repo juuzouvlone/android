@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-tvdpi_frame.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-large-tvdpi\\frame.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-xhdpi_player2.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-large-xhdpi\\player2.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-xlarge-xhdpi_frame.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-xlarge-xhdpi\\frame.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-xlarge-mdpi_player2.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-xlarge-mdpi\\player2.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi_frame.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-large-mdpi\\frame.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable_button_start.xml.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable\\button_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_frame.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-hdpi\\frame.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi_player1.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-large-mdpi\\player1.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-xlarge-mdpi_frame.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-xlarge-mdpi\\frame.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_player2.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-mdpi\\player2.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\layout_browser_actions_context_menu_row.xml.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\d52aa75563c2cc8edb955a24f2134bd9\\browser-1.0.0\\res\\layout\\browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_player2.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-hdpi\\player2.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi_player2.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-large-mdpi\\player2.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_player2.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-xxhdpi\\player2.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_player2.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-xhdpi\\player2.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-tvdpi_player1.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-large-tvdpi\\player1.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-xlarge-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-xlarge-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\layout_browser_actions_context_menu_page.xml.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\d52aa75563c2cc8edb955a24f2134bd9\\browser-1.0.0\\res\\layout\\browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-xlarge-xhdpi_player1.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-xlarge-xhdpi\\player1.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_frame.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-mdpi\\frame.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_player1.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-hdpi\\player1.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_player1.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-mdpi\\player1.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_player1.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-xxhdpi\\player1.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_frame.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-xxhdpi\\frame.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-large-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_frame.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-xhdpi\\frame.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable_button.xml.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-tvdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-large-tvdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_player1.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-xhdpi\\player1.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-xhdpi_frame.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-large-xhdpi\\frame.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-large-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\layout_main.xml.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-xlarge-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-xlarge-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-xlarge-xhdpi_player2.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-xlarge-xhdpi\\player2.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-xhdpi_player1.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-large-xhdpi\\player1.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-tvdpi_player2.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-large-tvdpi\\player2.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-2\\files-2.1\\2ffb88316df49107418be0872d7babe4\\core-1.0.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-xlarge-mdpi_player1.png.flat",
+        "source": "C:\\Users\\Erik\\Documents\\Max Unayev Film\\Tic Tac Toe\\TicTacToe\\app\\src\\main\\res\\drawable-xlarge-mdpi\\player1.png"
+    }
+]
